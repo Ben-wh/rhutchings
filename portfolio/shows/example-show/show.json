@@ -1,0 +1,56 @@
+{
+  "title": "Example Show",
+  "hidden": true,
+
+  "category": "Musicals/Plays",
+  "year": 2026,
+  "dates": "12–14 March 2026",
+  "venue": "Example Theatre, Bristol",
+  "company": "Example Theatre Company",
+  "role": "Lighting Programmer",
+
+  "poster": "poster.jpg",
+  "posterAlt": "Poster for Example Show",
+  "heroImage": "",
+
+  "summary": "One or two sentences. Shown on the board card and at the top of the show page.",
+
+  "about": [
+    "A paragraph about the production itself: what the show is, the creative team's vision, the venue.",
+    "Add as many paragraphs as you like. Each item in this list is one paragraph."
+  ],
+
+  "roleIntro": "Optional sentence introducing what you did.",
+  "responsibilities": [
+    "Programmed the lighting desk from the designer's plot and cue sheet",
+    "Ran the show for all six performances",
+    "Led the focus session with the student crew"
+  ],
+
+  "kit": ["ETC Eos Ion XE", "Robe Spiider", "QLab 5"],
+
+  "facts": [
+    { "label": "Performances", "value": "6" }
+  ],
+
+  "sections": [
+    { "title": "Challenges", "text": "Any extra section you want. 'text' works like 'about'." },
+    { "title": "What I Learned", "points": ["Or use 'points' for a list", "Like this"] }
+  ],
+
+  "video": "",
+
+  "gallery": [
+    "gallery-1.jpg",
+    { "src": "gallery-2.jpg", "caption": "Focus session the night before tech" }
+  ],
+
+  "credits": [
+    { "role": "Director", "name": "Name Surname" },
+    { "role": "Lighting Designer", "name": "Name Surname" }
+  ],
+
+  "links": [
+    { "label": "Programme (PDF)", "url": "programme.pdf" }
+  ]
+}

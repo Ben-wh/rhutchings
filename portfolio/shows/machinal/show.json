@@ -1,0 +1,66 @@
+{
+  "title": "Machinal",
+  "hidden": false,
+
+  "category": "Musicals/Plays",
+  "year": 2026,
+  "dates": "12 Oct - 21 Nov 2026",
+  "venue": "Bristol Old Vic",
+  "company": "Bristol School of Acting",
+  "role": "Assistant Stage Manager",
+
+  "poster": "poster.png",
+  "posterAlt": "Poster for Machinal",
+  "heroImage": "",
+
+  "summary": "Inspired by the real-life case of convicted and executed murderer, Ruth Snyder, the play had its Broadway premiere in 1928 and is widely considered to be one of the great plays of the 20th century.",
+
+  "about": [
+    "This production, set in modern day Tennessee against the backdrop of today’s rise of the ‘tradwife’, asks if, one hundred years later, anything has really changed at all?",
+    "Machinal is performed by graduating acting students and supported by technical students of Bristol School of Acting."
+  ],
+
+  "roleIntro": "Assistant Stage Manager and Rigging",
+  "responsibilities": [
+    "Oversaw the tracking and sourcing of props",
+    "Assured a smooth rehearsal and production",
+    "Assisted in the get-in and strike",
+    "Ran fast paced stage cues during show runs"
+  ],
+
+  "facts": [
+    { "label": "Performances", "value": "4" }
+  ],
+
+  "sections": [
+    { "title": "Challenges", "text": "My first professional production as an ASM brought challenges where I had to learn new methods and managerial skills. Along with a sizable prop count and tracking list, I was glad to have the support and teaching from Stage Managers - Cheryl Curley and Hannah Clare." },
+    { "title": "What I Learned", "points": ["Multitasking and time management", "Prop sourcing under time constraint", "Communication skills and teamwork"] }
+  ],
+
+  "video": "",
+
+  "gallery": [
+    { "src": "gallery-1.jpg", "caption": "Photographer: Craig Fuller" },
+    { "src": "gallery-2.jpg", "caption": "Photographer: Craig Fuller" },
+    { "src": "gallery-3.jpg", "caption": "Photographer: Craig Fuller" },
+    { "src": "gallery-4.jpg", "caption": "Photographer: Craig Fuller" },
+    { "src": "gallery-5.jpg", "caption": "Photographer: Craig Fuller" },
+    { "src": "gallery-6.jpg", "caption": "Photographer: Craig Fuller" }
+  ],
+
+  "credits": [
+    { "role": "Director", "name": "Lex Kaby" },
+    { "role": "Assistant Director", "name": "Rhys Myhill" },
+    { "role": "Production Manager", "name": "Becky Vowles" },
+    { "role": "Designer", "name": "Alice Sales" },
+    { "role": "Lighting Designer", "name": "Jenny Roxburgh" },
+    { "role": "Stage Manager", "name": "Rhys Probert" },
+    { "role": "Deputy Stage Manager", "name": "Eleanor Allen" }
+  ],
+
+  "links": [
+    { "label": "Play desciption", "url": "https://www.bristolschoolofacting.com/bsa-productions/machinal" },
+    { "label": "Digital programme", "url": "https://www.canva.com/design/DAHbEy4t99w/h4M9p4uzbfu9OVr3MxLi0A/view?utm_content=DAHbEy4t99w&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=haa087c553d" },
+    { "label": "Review from Backstage Bristol", "url": "https://backstagebristol.com/review-machinal-bristol-school-of-acting-weston-studio/" }
+  ]
+}
